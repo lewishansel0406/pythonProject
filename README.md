@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewishansel0406
-- 👀 I’m interested in Python, Networking, Excel, Git.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Python, Networking, Excel, Git, SQL.
+- 🌱 I’m currently learning Python and SQL.
 - 📫 How to reach me mail:lewis0406hansel@hotmail.com 
 
 <!---
