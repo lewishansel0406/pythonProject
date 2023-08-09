@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lewishansel0406
-- 👀 I’m interested in Python, SQL.
-- 🌱 I’m currently learning Python and SQL.
+- 👀 I’m interested in Python, SQL and JS.
+- 🌱 I’m currently learning HTML and CSS.
 - 📫 How to reach me mail:lewis0406hansel@hotmail.com 
 
 <!---
